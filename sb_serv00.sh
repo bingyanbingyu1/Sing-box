@@ -458,7 +458,7 @@ cat list.txt
 purple "list.txt saved successfully"
 purple "Running done!"
 sleep 3 
-rm -rf web bot npm boot.log config.json sb.log core tunnel.yml tunnel.json
+#rm -rf web bot npm boot.log config.json sb.log core tunnel.yml tunnel.json
 
 }
 
